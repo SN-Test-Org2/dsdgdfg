@@ -2,7 +2,7 @@
 <Profile xmlns="http://soap.sforce.com/2006/04/metadata">
     <custom>true</custom>
     <layoutAssignments>
-        <layout>ab__c-ab Layout</layout>
+        <layout>as__c-as Layout</layout>
     </layoutAssignments>
     <userLicense>External Apps Login</userLicense>
     <userPermissions>
